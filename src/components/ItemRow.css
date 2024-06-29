@@ -1,0 +1,159 @@
+.row-separator {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #b6b6b6;
+  box-sizing: border-box;
+}
+.spotify-ukwebp-icon {
+  height: 70.1px;
+  width: 100px;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.spotify,
+.worth-usd-400 {
+  width: 179px;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.spotify-parent {
+  width: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  gap: 8px;
+}
+.b3,
+.credits {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.b3 {
+  min-width: 70px;
+  white-space: nowrap;
+}
+.credits {
+  min-width: 88px;
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icon-plus {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.plus-button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.b4 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 11px;
+}
+.frame-input {
+  margin: 0;
+  height: 19px;
+  width: 16px;
+}
+.plus-button-parent {
+  border-radius: 8px;
+  background-color: #fff;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px;
+  gap: 26.5px;
+}
+.group {
+  align-self: stretch;
+  height: 38px;
+  font-family: Archivo;
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+}
+.frame-parent5,
+.frame-parent6 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent6 {
+  width: 115px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px;
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 90px 0 0;
+  box-sizing: border-box;
+  min-width: 203px;
+  max-width: 100%;
+  gap: 20px;
+}
+.b5 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 70px;
+  white-space: nowrap;
+}
+.item-row,
+.spotify-ukwebp-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.spotify-ukwebp-parent {
+  width: 899px;
+  flex-direction: row;
+  gap: 15px;
+}
+.item-row {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 35px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Archivo;
+}
+@media screen and (max-width: 900px) {
+  .spotify-ukwebp-parent {
+    flex-wrap: wrap;
+  }
+  .item-row {
+    gap: 17px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent5 {
+    flex-wrap: wrap;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

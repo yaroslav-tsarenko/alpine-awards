@@ -1,0 +1,91 @@
+.gift-card-hero-child {
+  height: 1470.2px;
+  width: 1604.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -708.4px;
+  right: -509.6px;
+  object-fit: contain;
+}
+.explore-our-gift {
+  margin: 0;
+  width: 678.1px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.whether-youre-celebrating {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+  z-index: 1;
+}
+.gift-card-hero,
+.hero-description,
+.productlistingpage {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hero-description {
+  width: 849.4px;
+  flex-direction: column;
+  padding: 53px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-left: -678.1px;
+  font-size: 16px;
+}
+.gift-card-hero,
+.productlistingpage {
+  position: relative;
+}
+.gift-card-hero {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 122.5px 118px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #545454;
+  font-family: Almarai;
+}
+.productlistingpage {
+  width: 100%;
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1325px) {
+  .gift-card-hero {
+    padding-left: 59px;
+    padding-right: 59px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .explore-our-gift {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .gift-card-hero {
+    padding-left: 29px;
+    padding-right: 29px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .explore-our-gift {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

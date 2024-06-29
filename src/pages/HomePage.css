@@ -1,0 +1,715 @@
+.svg-icon {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.new-in {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 53px;
+}
+.category-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon1 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.food {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 38px;
+}
+.category-list1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon2 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.games {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 53px;
+}
+.category-list2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon3 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.travel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 46px;
+}
+.category-list3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon4 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.esims {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 47px;
+}
+.category-list4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon5 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.apparel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 59px;
+}
+.category-list5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon6 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.electronics {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 84px;
+}
+.category-list6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon7 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.streaming {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 77px;
+}
+.category-list7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon8 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.home {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 45px;
+}
+.category-list8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon9 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.restaurants {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 91px;
+}
+.category-list9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon10 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.entertainment {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 107px;
+}
+.category-list10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon11 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.groceries {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 73px;
+}
+.category-list11 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.svg-icon12 {
+  width: 32px;
+  height: 32px;
+  position: relative;
+}
+.health {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 50px;
+}
+.category-list-parent,
+.category-list12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.category-list-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 120px;
+  gap: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.bitcoin-cashback {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.see-all {
+  position: relative;
+  font-size: 18px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.bitcoin-cashback-parent,
+.brands-row-parent,
+.frame-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.brands-row-parent,
+.frame-parent {
+  padding: 24px 120px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 80px 0;
+  gap: 24px;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.top-sellers {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.see-all1 {
+  position: relative;
+  font-size: 18px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.top-sellers-parent {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1920px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+}
+.frame-group {
+  align-self: stretch;
+  height: 1042px;
+  position: relative;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.hungry {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.see-all2 {
+  position: relative;
+  font-size: 18px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.hungry-parent {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1920px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+}
+.frame-container {
+  align-self: stretch;
+  height: 1042px;
+  position: relative;
+  background-color: #eee;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.see-all3,
+.travel1 {
+  position: relative;
+  display: inline-block;
+}
+.travel1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  min-width: 95px;
+}
+.see-all3 {
+  font-size: 18px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  min-width: 60px;
+}
+.travel-parent {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1920px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+}
+.frame-section {
+  align-self: stretch;
+  height: 1042px;
+  position: relative;
+  background-color: #fff;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.entertainment1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.see-all4 {
+  position: relative;
+  font-size: 18px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.entertainment-parent {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1920px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+}
+.frame-parent1 {
+  align-self: stretch;
+  height: 1042px;
+  position: relative;
+  background-color: #fff;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.top-up-your {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+}
+.see-all5 {
+  position: relative;
+  font-size: 18px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 60px;
+}
+.top-up-your-phone-parent {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 1920px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  box-sizing: border-box;
+  gap: 20px;
+  max-width: 100%;
+}
+.frame-parent2 {
+  align-self: stretch;
+  height: 1042px;
+  position: relative;
+  background-color: #eee;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.apparel1,
+.see-all6 {
+  position: relative;
+  display: inline-block;
+}
+.apparel1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  min-width: 121px;
+}
+.see-all6 {
+  font-size: 18px;
+  text-decoration: underline;
+  line-height: 22px;
+  font-weight: 500;
+  min-width: 60px;
+}
+.apparel-parent,
+.frame-div {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  gap: 20px;
+}
+.frame-div {
+  padding: 24px 120px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent3,
+.homepage {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  align-self: stretch;
+  padding: 80px 0;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #1c1c1c;
+  font-family: Inter;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1900px) {
+  .brands-row-parent,
+  .frame-div {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1425px) {
+  .brands-row-parent,
+  .category-list-parent,
+  .frame-div {
+    flex-wrap: wrap;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 950px) {
+  .category-list-parent {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .bitcoin-cashback {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .bitcoin-cashback-parent,
+  .brands-row-parent {
+    flex-wrap: wrap;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+  .brands-row-parent {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .frame-parent {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .top-sellers {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .top-sellers-parent {
+    flex-wrap: wrap;
+  }
+  .frame-group {
+    height: auto;
+    min-height: 1042;
+  }
+  .entertainment1,
+  .hungry,
+  .travel1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .entertainment-parent {
+    flex-wrap: wrap;
+  }
+  .frame-parent1 {
+    height: auto;
+    min-height: 1042;
+  }
+  .top-up-your {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .top-up-your-phone-parent {
+    flex-wrap: wrap;
+  }
+  .frame-parent2 {
+    height: auto;
+    min-height: 1042;
+  }
+  .apparel1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-div {
+    flex-wrap: wrap;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .frame-parent3 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .bitcoin-cashback {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .bitcoin-cashback-parent {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .brands-row-parent {
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .hungry,
+  .top-sellers {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .hungry-parent {
+    flex-wrap: wrap;
+  }
+  .frame-container {
+    height: auto;
+    min-height: 1042;
+  }
+  .travel1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .travel-parent {
+    flex-wrap: wrap;
+  }
+  .frame-section {
+    height: auto;
+    min-height: 1042;
+  }
+  .apparel1,
+  .entertainment1,
+  .top-up-your {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .apparel-parent,
+  .frame-div {
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .apparel-parent {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .frame-div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
